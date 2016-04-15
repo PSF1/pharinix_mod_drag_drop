@@ -1,0 +1,27 @@
+{
+    "meta":{
+        "name":"Nestable jQuery Plugin",
+        "slugname":"pharinix_mod_drag_drop",
+        "version": "1.0.0",
+        "autor": "Nestable jQuery Plugin Copyright (c) 2012 David Bushell - http://dbushell.com/, Pharinix module Copyright (c), 2016, Agilia Center (www.agiliacenter.com)",
+        "website": "http://www.agiliacenter.com",
+        "description": "Modulo para importar el modulo drag & drop",
+        "licence": "Dual-licensed under the BSD or MIT licenses"
+    },
+    "configuration": {},
+    "booting": [],
+    "bin_paths": [
+        "bin/"
+    ],
+    "nodetypes": {},
+    "sql": {},
+    "install": [],
+    "uninstall": [],
+    "requirements": {
+        "pharinix": "1.09.x"
+    },
+    "platforms":[
+        "win",
+        "linux"
+    ]
+}
